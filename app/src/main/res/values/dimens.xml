@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="logo_size">150dp</dimen>
+    <dimen name="name_text_size">28sp</dimen>
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="contact_row_padding">4dp</dimen>
+    <dimen name="contact_row_text_padding">16dp</dimen>
+    <dimen name="contact_info_bottom_padding">24dp</dimen>
+    <dimen name="contact_max_width">230dp</dimen>
+    <dimen name="logo_background_padding">8dp</dimen>
+    <dimen name="text_padding">8dp</dimen>
+    <dimen name="icon_size">20dp</dimen>
+    <dimen name="content_padding">16dp</dimen>
+</resources>
