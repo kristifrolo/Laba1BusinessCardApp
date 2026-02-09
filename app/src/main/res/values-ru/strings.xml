@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Business Card App</string>
-    <string name="full_name">Kristina Frolova</string>
+    <string name="full_name">Кристина Фролова</string>
     <string name="title">Б23-191-1</string>
     <string name="phone_number">+7 (912) 053-37-94</string>
     <string name="user_name">@DrystalCacals</string>
